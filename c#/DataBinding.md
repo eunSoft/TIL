@@ -14,3 +14,4 @@ UI요소(View)와 데이터/로직(Model/ViewModel) 사이에 데이터가 자�
 -DataContext : View에서 바인딩의 기본 Source로 사용할 객체를 지정 
 Window.DataContext = new MainViewModel() 또는 <Window.DataContext> 
 
+<img width="427" alt="Image" src="https://github.com/user-attachments/assets/3448e85b-0e79-4939-8a9f-d054660cd491" />
